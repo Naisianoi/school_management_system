@@ -1,0 +1,9 @@
+School Management System
+    Students, Teachers, Fees, Salary
+    
+OOP - Object Oriented Programming
+Class - objects
+
+School - teachers, students, total money earned (fees), total money spent (salary)
+Teachers - id, name, salary
+Students - id, name, grade, fees paid, fees total
